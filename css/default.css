@@ -1,0 +1,28 @@
+body {
+	background-color: #000000;
+	color: #cccccc;
+}
+
+h1 {
+	color: #008828;
+	font-family: "Comic Sans MS";
+    text-align: center;
+}	
+
+div#level hr {
+	margin-top: auto;
+	width: 50px;
+	height: 0;
+	border-top: 1px solid #800000;
+	border-right: 1px solid #804000;
+	border-bottom: 1px solid #804000;
+	border-left: 1px solid #800000;
+}
+
+div#animation {
+	margin: auto;
+    width: 6px;
+    height: 10px;
+    background-image: url(../gfx/animation_right.png);
+}
+
